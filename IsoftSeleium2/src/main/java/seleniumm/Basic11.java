@@ -41,6 +41,8 @@ public class Basic11 {
      String b=driver.getWindowHandle();
      System.out.println(b);
      
+     System.out.println(b);//commeneted
+     
      
 		
 	}
