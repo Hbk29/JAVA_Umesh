@@ -1,0 +1,8 @@
+2023-04-23 12:05:46,618 [main] INFO Log4j - setting property of chrome browser and path of chrome driver
+2023-04-23 12:05:58,872 [main] INFO Log4j - chrome browser ibstance open
+2023-04-23 12:05:58,877 [main] INFO Log4j - implicit wait set
+2023-04-23 12:06:03,513 [main] INFO Log4j - application launched
+2023-04-23 12:11:32,201 [main] INFO Log4j - setting property of chrome browser and path of chrome driver
+2023-04-23 12:11:47,679 [main] INFO Log4j - chrome browser ibstance open
+2023-04-23 12:11:47,684 [main] INFO Log4j - implicit wait set
+2023-04-23 12:11:51,770 [main] INFO Log4j - application launched
